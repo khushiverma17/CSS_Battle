@@ -1,8 +1,8 @@
 body{
     /* background-image: linear-gradient(to bottom right, red, yellow); */
     background-image:linear-gradient(to left, #fc5c7d, #6a82fb);
-  margin-left: 30%;
-  margin-top: 10%;
+    margin-top: 13%;
+    margin-left: 32%;
 }
 
 .maincontainer{
